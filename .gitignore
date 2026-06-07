@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
 .env
+client_secret.json
+get_refresh_token.py
 .venv/
 venv/
 *.egg-info/
